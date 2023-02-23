@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/de/dynamics-365-file-service/get-started/</loc>
-<lastmod>2023-02-23T12:26:47+00:00</lastmod>
+<loc>https://docs.gerwing-erp.de/de/dynamics-365-file-service/get-started/</loc>
+<lastmod>2023-02-23T13:55:36+01:00</lastmod>
 </url>
 <url>
-<loc>/de/dynamics-365-reporting-package/get-started/</loc>
-<lastmod>2023-02-23T12:26:47+00:00</lastmod>
+<loc>https://docs.gerwing-erp.de/de/dynamics-365-reporting-package/get-started/</loc>
+<lastmod>2023-02-23T13:55:36+01:00</lastmod>
 </url>
 <url>
-<loc>/de/</loc>
+<loc>https://docs.gerwing-erp.de/de/</loc>
 </url>
 <url>
-<loc>/de/base.html</loc>
-<lastmod>2023-02-23T08:13:25+00:00</lastmod>
+<loc>https://docs.gerwing-erp.de/de/base.html</loc>
+<lastmod>2023-02-23T09:13:25+01:00</lastmod>
 </url>
 </urlset>
