@@ -199,11 +199,11 @@ td, th { padding: 0; }
 
 html { height: 100%; max-height: 100%; font-size: 10px; -webkit-tap-highlight-color: transparent; }
 
-body { height: 100%; max-height: 100%; font-family: "Merriweather", serif; letter-spacing: 0.01rem; font-size: 1.8em; line-height: 1.75em; color: #3A4145; font-weight: 400; -webkit-font-feature-settings: 'kern' 1; -moz-font-feature-settings: 'kern' 1; -o-font-feature-settings: 'kern' 1; text-rendering: geometricPrecision; }
+body { height: 100%; max-height: 100%; font-family: "Open Sans", serif; letter-spacing: 0.01rem; font-size: 1.8em; line-height: 1.75em; color: #3a4145; font-weight: 400; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; text-rendering: geometricPrecision; }
 
-h1, h2, h3, h4, h5, h6, input, label, select, textarea, table { -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1; -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1; -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1; font-family: "Open Sans", sans-serif; text-rendering: geometricPrecision; }
+h1, h2, h3, h4, h5, h6, input, label, select, textarea, table { -webkit-font-feature-settings: "dlig" 1, "liga" 1, "lnum" 1, "kern" 1; -moz-font-feature-settings: "dlig" 1, "liga" 1, "lnum" 1, "kern" 1; -o-font-feature-settings: "dlig" 1, "liga" 1, "lnum" 1, "kern" 1; font-family: "Open Sans", sans-serif; text-rendering: geometricPrecision; }
 
-h1, h2, h3, h4, h5, h6 { color: #2E2E2E; line-height: 1.15em; margin: 0 0 0.4em 0; font-weight: 600; }
+h1, h2, h3, h4, h5, h6 { color: #2e2e2e; line-height: 1.15em; margin: 0 0 0.4em 0; font-weight: 600; }
 
 h1 { font-size: 5rem; letter-spacing: -2px; text-indent: -3px; }
 
@@ -217,11 +217,11 @@ h5 { font-size: 2rem; }
 
 h6 { font-size: 2rem; }
 
-a { color: #4A4A4A; transition: color 0.2s ease; }
+a { color: #4a4a4a; transition: color 0.2s ease; }
 
 a:hover { color: #111; }
 
-p, .settings-panel-example, ul, ol, dl, figure { -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1; -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1; -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1; margin: 0 0 1.75em 0; text-rendering: geometricPrecision; }
+p, .settings-panel-example, ul, ol, dl, figure { -webkit-font-feature-settings: "liga" 1, "onum" 1, "kern" 1; -moz-font-feature-settings: "liga" 1, "onum" 1, "kern" 1; -o-font-feature-settings: "liga" 1, "onum" 1, "kern" 1; margin: 0 0 1.75em 0; text-rendering: geometricPrecision; }
 
 ol, ul { padding-left: 3rem; }
 
@@ -239,7 +239,7 @@ hr, .content h3::before { display: block; height: 1px; border: 0; border-top: #e
 
 mark { background-color: #fdffb6; }
 
-kbd { display: inline-block; margin-bottom: 0.4em; padding: 1px 8px; border: #CCC 1px solid; color: #666; text-shadow: #FFF 0 1px 0; font-size: 0.9em; font-weight: 700; background: #F4F4F4; border-radius: 4px; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset; }
+kbd { display: inline-block; margin-bottom: 0.4em; padding: 1px 8px; border: #ccc 1px solid; color: #666; text-shadow: #fff 0 1px 0; font-size: 0.9em; font-weight: 700; background: #f4f4f4; border-radius: 4px; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset; }
 
 @media only screen and (max-width: 900px) { blockquote { margin-left: 0; }
   hr, .content h3::before { margin: 2.4em 0; }
